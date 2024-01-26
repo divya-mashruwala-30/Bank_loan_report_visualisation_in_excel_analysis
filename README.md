@@ -1,4 +1,4 @@
-This is a repository of excel project in data banking loan report along with its data analysis.
+This is a repository of excel project of banking loan sector along with its data analysis.
 From this project we can get idea about how a bank grants loans to its various borrowers and how much of it are the good loans and which are bad loans.
 We can also calculate important KPI's like total loans taken, total funded amount, total amount received, average rates, average DTI and much more.
 so, it gives us the idea about how this banking loan process works.
